@@ -35,16 +35,6 @@
     "category": "Entertainment",
     "streamUrl": "https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8"
   },
-   {
-    "name": "Alltv2",
-    "type": "TV",
-    "logo": "https://i.imgur.com/SY4lgHf.jpeg",
-    "category": "TV",
-    "streamUrl": "https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtb29uIiwiaWF0IjoxNzc0MzkyNDY4LCJleHAiOjE3NzU1Njg1MjYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NTU2ODUyNiwiYWxsb3dlZE9yaWdpbnMiOlsiaHR0cHM6Ly8zcnNuZXcucGFnZXMuZGV2IiwiaHR0cHM6Ly8zcnNyYWRpbzIucGFnZXMuZGV2IiwiaHR0cHM6Ly9pd2F0Y2h0di5pdHVuZXJ3b3JsZHdpZGUud29ya2Vycy5kZXYiLCJodHRwczovL2RyaXZlLmdvb2dsZS5jb20iXX0.EjGScpQI6RTg7Z5NFZWQW29JR3YDQOJDxBb4Ydmvq-U",
-    "drm": {
-      "31363232323238353336303333363036": "367662564c69425947353948374f4553"
-    }
-  },
   {
     "name": "AMC Thrillers",
     "type": "TV",
@@ -741,11 +731,14 @@
     "streamUrl": "https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_1.m3u8"
   },
   {
-    "name": "HITS Movies",
+    "name": "Hits Movies",
     "type": "TV",
-    "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",
+    "logo": "https://i.imgur.com/FEHwzDt.jpeg",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-pillipinas-live-bpk-02-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd"
+    "streamUrl": "https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd",
+    "drm": {
+      "f56b57b32d7e4b2cb21748c0b56761a7": "3df06a89aa01b32655a77d93e09e266f"
+    }
   },
   {
     "name": "Home Plus",
@@ -767,13 +760,6 @@
     "logo": "https://i.imgur.com/F0LQtYK.jpeg",
     "category": "Kids",
     "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8"
-  },
-   {
-    "name": "HYPE TV",
-    "type": "TV",
-    "logo": "",
-    "category": "Movies",
-    "streamUrl": "https://hypetv_hd.vonnhost.workers.dev/mono.ts.m3u8"
   },
   {
     "name": "iFilm",
@@ -1128,6 +1114,26 @@
     "category": "Sports",
     "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-NITRO-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3265a84f-1238-4439-bb40-cc0b716719f7/manifest.m3u8"
   },
+  {
+    "name": "OCN Movies 1",
+    "type": "TV",
+    "logo": "https://i.imgur.com/dQRCCCd.png",
+    "category": "Movies",
+    "streamUrl": "https://ocnmovies-drm2-mcdn.tving.com/ocnmovies_drm/live5000.smil/manifest.mpd",
+    "drm": {
+      "817839de27764deb879c65c571c19226": "2b1443f33c919c89429a21259974a224"
+    }
+  },
+  {
+    "name": "OCN Movies 2",
+    "type": "TV",
+    "logo": "https://i.imgur.com/dQRCCCd.png",
+    "category": "Movies",
+    "streamUrl": "https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd",
+    "drm": {
+      "a97de619e5834e6da10c9bab768fc626": "1452d46b8ecd87b38310ce90d4f5209f"
+    }
+  },
  {
     "name": "ONE Championship",
     "type": "TV",
@@ -1179,6 +1185,16 @@
     "logo": "https://i.imgur.com/8sKjU0A.png",
     "category": "Kids",
     "streamUrl": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
+  },
+   {
+    "name": "Pbo",
+    "type": "TV",
+    "logo": "https://i.imgur.com/hh2EP86.png",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd",
+    "drm": {
+      "dcbdaaa6662d4188bdf97f9f0ca5e830": "31e752b441bd2972f2b98a4b1bc1c7a1"
+    }
   },
   {
     "name": "Persiana Korea",
@@ -1384,6 +1400,16 @@
     "category": "Movies",
     "streamUrl": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648"
 },
+  {
+    "name": "Sari Sari",
+    "type": "TV",
+    "logo": "https://i.imgur.com/upWnLA0.png",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd",
+    "drm": {
+      "0a7ab3612f434335aa6e895016d8cd2d": "b21654621230ae21714a5cab52daeb9d"
+    }
+  },
 {
     "name": "Sci-Fi World",
     "type": "TV",
@@ -1621,6 +1647,26 @@
     "category": "Drama",
     "streamUrl": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
 },
+  {
+    "name": "TV5",
+    "type": "TV",
+    "logo": "https://i.imgur.com/70wHkDj.png",
+    "category": "TV",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd",
+    "drm": {
+      "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
+    }
+  },
+  {
+    "name": "UAAP",
+    "type": "TV",
+    "logo": "https://i.imgur.com/qoQhGsX.png",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
+    "drm": {
+      "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
+    }
+  },
 {
     "name": "Universal Action",
     "type": "TV",
