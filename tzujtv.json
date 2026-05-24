@@ -1,46 +1,9 @@
 [
- {
-    "name": "Star Television",
-    "type": "TV",
-    "logo": "https://i.imgur.com/QalEBc8.jpeg",
-    "category": "TV",
-    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-  {
-    "name": "Sine Plus",
-    "type": "TV",
-    "logo": "",
-    "category": "Movies",
-    "streamUrl": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-  {
-    "name": "Highlights TV",
-    "type": "TV",
-    "logo": "",
-    "category": "Entertainment",
-    "streamUrl": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-  {
-    "name": "Dream TV PH",
-    "type": "TV",
-    "logo": "",
-    "category": "TV",
-    "streamUrl": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-  {
-    "name": "Hype TV by DTMMBS",
-    "type": "TV",
-    "logo": "",
-    "category": "Entertainment",
-    "streamUrl": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
-  },
-  {
-    "name": "Star TV Philippines",
-    "type": "TV",
-    "logo": "",
-    "category": "TV",
-    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
-  },
+ 
+
+ 
+ 
+ 
 
   {
     "name": "Abante Radyo",
@@ -549,6 +512,13 @@
     "logo": "https://static.mytuner.mobi/media/tvos_radios/380/dreamstar-teleradio.f004004e.png"
   },
   {
+    "name": "Dream TV PH",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
     "name": "DW News",
     "type": "TV",
     "logo": "https://tse4.mm.bing.net/th/id/OIP.rvbciyNPlvI3gE7JgpJ-dAHaHa?pid=Api&h=220&P=0",
@@ -836,6 +806,13 @@
     "streamUrl": "https://amg00654-itv-amg00654c1-samsung-th-9581.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
+    "name": "Highlights TV",
+    "type": "TV",
+    "logo": "",
+    "category": "Entertainment",
+    "streamUrl": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
     "name": "History2",
     "type": "TV",
     "logo": "",
@@ -866,6 +843,14 @@
     "category": "Religion",
     "streamUrl": "https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/master.m3u8?fbclid=IwY2xjawNK_SdleHRuA2FlbQIxMABicmlkETFiOGd1TE93NE9IUWYzbFZyAR6IbBfur0gqX9lkQWTuQYAWFoJLRNTSfiB2UyYW29t9DzQKcGplPu1LSw7sew_aem_ANrGgg4MQcqZ5iF4mxHzUQ"
   },
+  {
+    "name": "Hype TV by DTMMBS",
+    "type": "TV",
+    "logo": "",
+    "category": "Entertainment",
+    "streamUrl": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+
   {
     "name": "HypeTV",
     "type": "TV",
@@ -1557,20 +1542,6 @@
     "category": "Movies",
     "streamUrl": "https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
 },
-{
-    "name": "Sdtv Network",
-    "type": "TV",
-    "logo": "https://i.imgur.com/gzQ9sFM.jpeg",
-    "category": "TV",
-    "streamUrl": "https://sdtvnetworkph.sanmateocable.workers.dev/playlist.m3u8"
-  },
-   {
-    "name": "Sdtv Regional",
-    "type": "TV",
-    "logo": "https://i.imgur.com/M9G4z0K.jpeg",
-    "category": "TV",
-    "streamUrl": "https://live20.bozztv.com/giatvplayout7/giatv-211473/tracks-v1a1/mono.ts.m3u8"
-  },
   {
     "name": "Send The Word Online Radio",
     "type": "Radio",
@@ -1585,12 +1556,12 @@
     "category": "Movies",
     "streamUrl": "https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/chunks.m3u8"
   },
-    {
-    "name": "SINE PLUS",
+   {
+    "name": "Sine Plus",
     "type": "TV",
     "logo": "",
     "category": "Movies",
-    "streamUrl": "https://sineplus_hd.vonnhost.workers.dev/mono.ts.m3u8"
+    "streamUrl": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
   },
   {
     "name": "Shop Channel (1080p) [Not 24/7]",
@@ -1627,6 +1598,20 @@
     "category": "Sports",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist_5.m3u8"
 },
+ {
+    "name": "Star Television",
+    "type": "TV",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "category": "TV",
+    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+   {
+    "name": "Star TV Philippines",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
 {
     "name": "Station 1 Radio",
     "type": "Radio",
