@@ -1,5 +1,46 @@
 [
-
+ {
+    "name": "Star Television",
+    "type": "TV",
+    "logo": "https://i.imgur.com/QalEBc8.jpeg",
+    "category": "TV",
+    "streamUrl": "https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "Sine Plus",
+    "type": "TV",
+    "logo": "",
+    "category": "Movies",
+    "streamUrl": "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "Highlights TV",
+    "type": "TV",
+    "logo": "",
+    "category": "Entertainment",
+    "streamUrl": "https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "Dream TV PH",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "Hype TV by DTMMBS",
+    "type": "TV",
+    "logo": "",
+    "category": "Entertainment",
+    "streamUrl": "https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8"
+  },
+  {
+    "name": "Star TV Philippines",
+    "type": "TV",
+    "logo": "",
+    "category": "TV",
+    "streamUrl": "https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8"
+  },
 
   {
     "name": "Abante Radyo",
