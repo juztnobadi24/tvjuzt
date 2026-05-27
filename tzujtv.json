@@ -2338,6 +2338,14 @@
   "name": "Avatar: The Way of Water",
   "streamUrl": "76600", 
   "type": "Movie",
-  "category": "Sci-Fi"
-}
+  "category": "Sci-Fi",
+  "logo": "https://image.tmdb.org/t/p/w600_and_h900_face/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+},
+ {
+    "name": "Moana 2",
+    "streamUrl": "1241982",
+    "type": "Movie",
+    "category": "Animation",
+    "logo": "https://image.tmdb.org/t/p/w500/m0S9799S99Osh7uI065nU1yR57y.jpg"
+  }
 ]
