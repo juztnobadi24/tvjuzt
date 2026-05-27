@@ -2347,5 +2347,15 @@
     "type": "Movie",
     "category": "Animation",
     "logo": "https://image.tmdb.org/t/p/w500/m0S9799S99Osh7uI065nU1yR57y.jpg"
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "streamUrl": "m533535",
+    "type": "Movie"
+  },
+  {
+    "name": "Lucifer",
+    "streamUrl": "t63174",
+    "type": "Movie"
   }
 ]
