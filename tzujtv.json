@@ -2253,5 +2253,80 @@
     "name": "Lucifer",
     "streamUrl": "t63174",
     "type": "Movie"
+  },
+ {
+    "name": "Lee Cronin's The Mummy",
+    "streamUrl": "m1304313",
+    "type": "Movie"
+  },
+  {
+    "name": "Swapped",
+    "streamUrl": "m1007757",
+    "type": "Movie"
+  },
+  {
+    "name": "Project Hail Mary",
+    "streamUrl": "m687163",
+    "type": "Movie"
+  },
+  {
+    "name": "Spirited Away",
+    "streamUrl": "m129",
+    "type": "Movie"
+  },
+  {
+    "name": "The Dark Knight",
+    "streamUrl": "m155",
+    "type": "Movie"
+  },
+  {
+    "name": "Remarkably Bright Creatures",
+    "streamUrl": "m1330021",
+    "type": "Movie"
+  },
+  {
+    "name": "Dilwale Dulhania Le Jayenge",
+    "streamUrl": "m19404",
+    "type": "Movie"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "streamUrl": "m122",
+    "type": "Movie"
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "streamUrl": "m12477",
+    "type": "Movie"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "streamUrl": "m120",
+    "type": "Movie"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "streamUrl": "m121",
+    "type": "Movie"
+  },
+  {
+    "name": "The Punisher: One Last Kill",
+    "streamUrl": "m1439930",
+    "type": "Movie"
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "streamUrl": "m324857",
+    "type": "Movie"
+  },
+  {
+    "name": "A Silent Voice: The Movie",
+    "streamUrl": "m378064",
+    "type": "Movie"
+  },
+  {
+    "name": "The Pianist",
+    "streamUrl": "m423",
+    "type": "Movie"
   }
 ]
